@@ -1,42 +1,41 @@
 # 🚀 Nexus Platform by IQRA
 
-Nexus is a modern React-based collaboration platform designed to connect **Investors** and **Entrepreneurs**. This project enhances an existing application by integrating advanced frontend features such as scheduling, communication, document handling, payments simulation, and security systems.
+Nexus is a modern React-based collaboration platform designed to connect **Investors** and **Entrepreneurs**. This project enhances an existing application by integrating advanced frontend features such as scheduling, communication, document management, payment simulation, and security systems.
 
 ---
 
-## 🔥 Features
+## 🔥 Key Features
 
 ### 📅 Meeting Scheduling
-- Interactive calendar integration
-- Add/modify availability slots
+- Interactive calendar for managing availability
 - Send, accept, and decline meeting requests
 - Display confirmed meetings on dashboard
 
-### 🎥 Video Calling (UI Mock)
-- Start and end call functionality
-- Audio and video toggle
-- Screen sharing (optional)
+### 🎥 Video Calling (Frontend Mock)
+- Start and end call interface
+- Audio and video toggle controls
+- Screen sharing (UI level)
 
 ### 📄 Document Chamber
 - Upload and preview documents (PDF/DOC)
-- E-signature mockup
+- E-signature mock functionality
 - Status tracking (Draft / In Review / Signed)
 
-### 💳 Payment System (Mock)
-- Deposit, Withdraw, and Transfer simulation
-- Transaction history table
+### 💳 Payment System (Simulation)
+- Deposit, Withdraw, and Transfer functionality (mock)
+- Transaction history with details
 - Wallet balance display
-- Funding flow (Investor → Entrepreneur)
+- Investor → Entrepreneur funding flow
 
 ### 🔐 Security & Access Control
-- Password strength meter
-- Two-Factor Authentication (OTP mock)
+- Password strength indicator
+- Two-Factor Authentication (OTP-based mock)
 - Role-based dashboards (Investor / Entrepreneur)
 
 ### 🎯 User Experience
-- Responsive design (mobile + desktop)
-- Smooth UI with modern layout
-- Guided walkthrough (tooltips)
+- Fully responsive design
+- Clean and modern UI
+- Smooth navigation and layout
 
 ---
 
@@ -46,47 +45,37 @@ Nexus is a modern React-based collaboration platform designed to connect **Inves
 - JavaScript (ES6+)
 - Vite
 - CSS / Tailwind CSS
-- WebRTC (UI Integration)
+- WebRTC (UI integration)
 
 ---
 
 ## 🌐 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉 https://iqra-nexus-platform.vercel.app
 
 ---
 
 ## 📂 GitHub Repository
 
-👉 https://github.com/your-username/iqra-nexus-platform
+👉 https://github.com/iqrardev01-ai/iqra-nexus-platform
 
 ---
 
 ## ⚙️ Installation & Setup
 
 ```bash
-# Clone repository
-git clone https://github.com/your-username/iqra-nexus-platform.git
-
-# Navigate to project
+git clone https://github.com/iqrardev01-ai/iqra-nexus-platform.git
 cd iqra-nexus-platform
-
-# Install dependencies
 npm install
-
-# Run development server
 npm run dev
-````
 
----
+📌 Important Note
 
-## 📌 Notes
+This project is developed as part of an Advanced Frontend Internship.
 
-This project is developed as part of an **Advanced Frontend Internship**.
-Focus is on building real-world UI features and simulating complex platform functionalities.
+All features are implemented on the frontend level only, using mock data and simulated workflows to demonstrate real-world platform functionality.
 
----
+**Author**
+_IQRA_
 
-## 👨‍💻 Author
 
-**IQRA**
